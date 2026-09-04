@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/bahir_dar_childcare_app__24_ (18).html" }
+  ]
+}
